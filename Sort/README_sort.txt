@@ -1,0 +1,1 @@
+All the sort algorithms take arraylists as parameter and these arraylists include Student objects for example
