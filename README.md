@@ -1,2 +1,3 @@
-# Java-Algorithms
-Some java codes for algorithms
+# Java-Sort-Algorithms
+
+Sort algorithms in Java
